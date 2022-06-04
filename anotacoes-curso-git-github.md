@@ -68,4 +68,10 @@ git commit -m "commit inicial"
 * git status: monitora o status do repositório.
 * ao alterar o repositório o status fica untracked. Faça o git add and/or git commit para mover os arquivos para o staged. git commit no final para finalizar.
 
+* git add * (add todas as modficações) no staged;
+* git commit -m "comentário"
+![ciclo_vida_arquivos_git](https://user-images.githubusercontent.com/67171075/172020838-816e9ac3-74d2-4f26-a086-bcc7731c25e9.png)
+
+* as vezes da erro de url do repositorio, então use o git remote set-url para atualizar o link do repositorio.
+
 
